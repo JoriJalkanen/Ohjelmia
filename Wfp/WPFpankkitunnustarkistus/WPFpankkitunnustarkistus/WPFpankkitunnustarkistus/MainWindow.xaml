@@ -1,0 +1,10 @@
+﻿<Window x:Class="WPFpankkitunnustarkistus.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Anna viitenumero:" HorizontalAlignment="Left" Height="35" Margin="44,78,0,0" VerticalAlignment="Top" Width="159"/>
+        <TextBox HorizontalAlignment="Left" Name="txtViitenumero" Height="35" Margin="225,78,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="144" KeyDown="txtViitenumero_KeyDown"/>
+
+    </Grid>
+</Window>

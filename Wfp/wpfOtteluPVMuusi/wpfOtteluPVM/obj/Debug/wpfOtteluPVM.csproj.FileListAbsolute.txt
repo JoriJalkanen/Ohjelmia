@@ -1,0 +1,52 @@
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.exe.config
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\MainWindow.baml
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\MainWindow.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\App.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM_MarkupCompile.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.g.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.Properties.Resources.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.csproj.GenerateResource.Cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.pdb
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.pdb
+U:\Ohjelmointi ynnä muut\ohjelmointi\projektit\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.csprojResolveAssemblyReference.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.exe.config
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.pdb
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.pdb
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.csprojResolveAssemblyReference.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\MainWindow.baml
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\MainWindow.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\App.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM_MarkupCompile.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.g.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.Properties.Resources.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVM\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.csproj.GenerateResource.Cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.exe.config
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.pdb
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.exe.config
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.exe
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.pdb
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.exe
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.pdb
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.csprojResolveAssemblyReference.cache
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\MainWindow.baml
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\MainWindow.g.cs
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\App.g.cs
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM_MarkupCompile.cache
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.g.resources
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.Properties.Resources.resources
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.csproj.GenerateResource.Cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\bin\Debug\wpfOtteluPVM.pdb
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.csprojResolveAssemblyReference.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\MainWindow.baml
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\MainWindow.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\App.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM_MarkupCompile.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.g.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.Properties.Resources.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfOtteluPVMuusi\wpfOtteluPVM\obj\Debug\wpfOtteluPVM.csproj.GenerateResource.Cache

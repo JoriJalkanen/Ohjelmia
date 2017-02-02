@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<SMliiga>
+	<Joukkue nimi="Saipa">
+		<Pelaaja>
+			<Sukunimi>Hutanen</Sukunimi>
+			<PelNro>2</PelNro>
+		</Pelaaja>	
+		<Pelaaja>
+			<Sukunimi>Larsson</Sukunimi>
+			<PelNro>5</PelNro>
+		</Pelaaja>	
+	</Joukkue>
+	<Joukkue nimi="Sport">
+		<Pelaaja>
+			<Sukunimi>Bertrand</Sukunimi>
+			<PelNro>3</PelNro>
+		</Pelaaja>
+		<Pelaaja>
+			<Sukunimi>Westermarck</Sukunimi>
+			<PelNro>5</PelNro>
+		</Pelaaja>
+		<Pelaaja>
+			<Sukunimi>Leskinen</Sukunimi>
+			<PelNro>12</PelNro>
+		</Pelaaja>		
+	</Joukkue>
+</SMliiga>

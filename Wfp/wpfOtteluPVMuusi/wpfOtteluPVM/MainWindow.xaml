@@ -1,0 +1,27 @@
+﻿<Window x:Class="wpfOtteluPVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="383" Width="567" Loaded="Window_Loaded">
+    <Grid>
+        <ListBox HorizontalAlignment="Left" Height="225" x:Name="lstottelut" Margin="28,65,0,0" VerticalAlignment="Top" Width="256" SelectionChanged="lstottelut_SelectionChanged"/>
+        <Label Content="Päivämäärä:" HorizontalAlignment="Left" Margin="341,104,0,0" VerticalAlignment="Top" Height="25" Width="128" RenderTransformOrigin="0.5,0.5"/>
+        <Label Content="Tiedot" HorizontalAlignment="Left" Margin="375,62,0,0" VerticalAlignment="Top" Height="36" Width="94" FontWeight="Bold" FontSize="15"/>
+        <Label Content="Kotijoukkue" HorizontalAlignment="Left" Margin="341,134,0,0" VerticalAlignment="Top" Width="128" Height="32"/>
+        <Label Content="Vierasjoukkue" HorizontalAlignment="Left" Margin="341,166,0,0" VerticalAlignment="Top" Width="128" Height="26"/>
+        <Label Content="Ottelutyyppi" HorizontalAlignment="Left" Margin="341,196,0,0" VerticalAlignment="Top" Width="128" Height="24"/>
+        <Label Content="Maalit:" HorizontalAlignment="Left" Margin="341,224,0,0" VerticalAlignment="Top" Width="128" Height="25"/>
+        <Label Content="Koti:" HorizontalAlignment="Left" Margin="375,253,0,0" VerticalAlignment="Top" Width="61" Height="24"/>
+        <Label Content="Vieras:" HorizontalAlignment="Left" Margin="375,277,0,0" VerticalAlignment="Top" Width="61" Height="24"/>
+        <Label Content="" Name="lblPvm" HorizontalAlignment="Left" Margin="427,104,0,0" VerticalAlignment="Top" Height="23" Width="79"/>
+        <Label Content="" Name="lblKoti" HorizontalAlignment="Left" Margin="427,134,0,0" VerticalAlignment="Top" Height="25" Width="79"/>
+        <Label Content="" Name="lblvieras" HorizontalAlignment="Left" Margin="427,166,0,0" VerticalAlignment="Top" Height="26" Width="79"/>
+        <Label Content="" Name="lblottelutyyppi" HorizontalAlignment="Left" Margin="427,196,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.516,4.193" Height="24" Width="79"/>
+        <Label Content="" Name="lblmaalitkoti" HorizontalAlignment="Left" Margin="427,253,0,0" VerticalAlignment="Top" Height="24" Width="42"/>
+        <Label Content="" Name="lblmaalitvieras" HorizontalAlignment="Left" Margin="427,285,0,0" VerticalAlignment="Top" Height="24" Width="42"/>
+        <Label Content="Joukkue:" HorizontalAlignment="Left" Margin="28,29,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Name="txtJoukkue" Height="26" Margin="92,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" KeyUp="txtJoukkue_KeyUp" />
+        <RadioButton Content="Koti" Name="rbtKoti" HorizontalAlignment="Left" Margin="198,17,0,0" VerticalAlignment="Top" Checked="rbtKoti_Checked"/>
+        <RadioButton Content="Vieras" Name="rbtVieras" HorizontalAlignment="Left" Margin="198,32,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Kaikki" Name="rbtAll"  HorizontalAlignment="Left" Margin="198,47,0,0" VerticalAlignment="Top" IsChecked="True"/>
+    </Grid>
+</Window>

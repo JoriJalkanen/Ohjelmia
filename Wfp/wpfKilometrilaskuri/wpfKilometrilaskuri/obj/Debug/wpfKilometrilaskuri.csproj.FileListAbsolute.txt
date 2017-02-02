@@ -1,0 +1,26 @@
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\bin\Debug\wpfKilometrilaskuri.exe.config
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\bin\Debug\wpfKilometrilaskuri.exe
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\bin\Debug\wpfKilometrilaskuri.pdb
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.csprojResolveAssemblyReference.cache
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\MainWindow.baml
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\MainWindow.g.cs
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\App.g.cs
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri_MarkupCompile.cache
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.g.resources
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.Properties.Resources.resources
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.csproj.GenerateResource.Cache
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.exe
+E:\Koulu\Public_html\ohjelmointi\Wpf\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.pdb
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\bin\Debug\wpfKilometrilaskuri.exe.config
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.pdb
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\bin\Debug\wpfKilometrilaskuri.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\bin\Debug\wpfKilometrilaskuri.pdb
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.csprojResolveAssemblyReference.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\MainWindow.baml
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\MainWindow.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\App.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri_MarkupCompile.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.g.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.Properties.Resources.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfKilometrilaskuri\wpfKilometrilaskuri\obj\Debug\wpfKilometrilaskuri.csproj.GenerateResource.Cache

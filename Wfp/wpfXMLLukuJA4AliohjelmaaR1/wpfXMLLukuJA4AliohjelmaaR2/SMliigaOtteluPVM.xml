@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<SMliiga>
+     <Ottelu>
+	    <Pvm>17.1.2016</Pvm>
+		<Kotijoukkue>Kalpa</Kotijoukkue>
+		<Vierasjoukkue>Sport</Vierasjoukkue>
+		<Ottelutyyppi>Runkosarja</Ottelutyyppi>
+		<Kotimaalit>2</Kotimaalit>
+		<Vierasmaalit>6</Vierasmaalit>
+	 </Ottelu>
+     <Ottelu>
+	    <Pvm>17.1.2016</Pvm>
+		<Kotijoukkue>Tappara</Kotijoukkue>
+		<Vierasjoukkue>HPK</Vierasjoukkue>
+		<Ottelutyyppi>Runkosarja</Ottelutyyppi>
+		<Kotimaalit>1</Kotimaalit>
+		<Vierasmaalit>2</Vierasmaalit>
+	 </Ottelu>
+     <Ottelu>
+	    <Pvm>20.1.2016</Pvm>
+		<Kotijoukkue>JYP</Kotijoukkue>
+		<Vierasjoukkue>HPK</Vierasjoukkue>
+		<Ottelutyyppi>Runkosarja</Ottelutyyppi>
+	 </Ottelu>
+</SMliiga>

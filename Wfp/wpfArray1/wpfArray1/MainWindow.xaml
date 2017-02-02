@@ -1,0 +1,22 @@
+﻿<Window x:Class="wpfArray1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="373" Width="581" Loaded="Window_Loaded">
+    <Grid Loaded="Grid_Loaded">
+        <ListBox HorizontalAlignment="Left" x:Name="lstKuukaudet" Height="263" Margin="50,10,0,0" VerticalAlignment="Top" Width="199" SelectionChanged="lstKuukaudet_SelectionChanged"/>
+        <Label x:Name="lblTeksti" Content="Label" HorizontalAlignment="Left" Height="26" Margin="264,69,0,0" VerticalAlignment="Top" Width="243" Background="#FFF0AB32"/>
+        <Label Content="Anna kuukauden numero" HorizontalAlignment="Left" Height="31" Margin="296,10,0,0" VerticalAlignment="Top" Width="156"/>
+        <TextBox x:Name="TxtKuukaudenNro" HorizontalAlignment="Left" Height="23" Margin="296,41,0,0" TextWrapping="Wrap" Text="txtKuukaudenNro" VerticalAlignment="Top" Width="116" RenderTransformOrigin="0.017,0.095" KeyDown="TxtKuukaudenNro_KeyDown"/>
+        <Label  Content="AlkuKK" HorizontalAlignment="Left" Height="26" Margin="269,112,0,0" VerticalAlignment="Top" Width="79"/>
+        <Label  Content="LoppuKK" HorizontalAlignment="Left" Height="26" Margin="269,152,0,0" VerticalAlignment="Top" Width="79" RenderTransformOrigin="0.236,4.692"/>
+        <Label  x:Name="lblPäivienLkmYhteensä" Content="" HorizontalAlignment="Left" Height="26" Margin="369,183,0,0" VerticalAlignment="Top" Width="139" Background="#FF43F032" RenderTransformOrigin="0.236,4.692"/>
+        <Button x:Name="btnLaske" Content="Button" HorizontalAlignment="Left" Margin="273,183,0,0" VerticalAlignment="Top" Width="75" Height="26" Click="btnLaske_Click"/>
+        <TextBox x:Name="txtalkuKK" HorizontalAlignment="Left" Height="23" Margin="369,112,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="162" RenderTransformOrigin="0.017,0.095" />
+        <TextBox x:Name="txtloppuKK" HorizontalAlignment="Left" Height="22" Margin="369,152,0,0" TextWrapping="Wrap" Text="12" VerticalAlignment="Top" Width="162" RenderTransformOrigin="0.017,0.095" />
+        <Label  Content="1. kvartaalin päivät" HorizontalAlignment="Left" Height="30" Margin="279,238,0,0" VerticalAlignment="Top" Width="117" RenderTransformOrigin="0.5,0.5"/>
+        <Label  Content="4. kvartaalin päivät" HorizontalAlignment="Left" Height="30" Margin="279,286,0,0" VerticalAlignment="Top" Width="117" RenderTransformOrigin="0.236,4.692"/>
+        <TextBox x:Name="txt1kvartaali" HorizontalAlignment="Left" Height="27" Margin="445,238,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="86" RenderTransformOrigin="0.017,0.095" />
+        <TextBox x:Name="txt4kvartaali" HorizontalAlignment="Left" Height="25" Margin="445,286,0,0" TextWrapping="Wrap" Text="12" VerticalAlignment="Top" Width="86" RenderTransformOrigin="0.017,0.095" />
+
+    </Grid>
+</Window>

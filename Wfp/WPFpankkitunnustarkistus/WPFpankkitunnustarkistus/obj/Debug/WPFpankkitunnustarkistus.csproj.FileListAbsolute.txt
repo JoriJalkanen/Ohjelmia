@@ -1,0 +1,26 @@
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\bin\Debug\WPFpankkitunnustarkistus.exe.config
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.csprojResolveAssemblyReference.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\MainWindow.baml
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\MainWindow.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\App.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus_MarkupCompile.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.g.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.Properties.Resources.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.csproj.GenerateResource.Cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\bin\Debug\WPFpankkitunnustarkistus.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\bin\Debug\WPFpankkitunnustarkistus.pdb
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.pdb
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\bin\Debug\WPFpankkitunnustarkistus.exe.config
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.exe
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.pdb
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\bin\Debug\WPFpankkitunnustarkistus.exe
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\bin\Debug\WPFpankkitunnustarkistus.pdb
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.csprojResolveAssemblyReference.cache
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\MainWindow.baml
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\MainWindow.g.cs
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\App.g.cs
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus_MarkupCompile.cache
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.g.resources
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.Properties.Resources.resources
+E:\Koulu\Public_html\ohjelmointi\Wpf\WPFpankkitunnustarkistus\WPFpankkitunnustarkistus\obj\Debug\WPFpankkitunnustarkistus.csproj.GenerateResource.Cache

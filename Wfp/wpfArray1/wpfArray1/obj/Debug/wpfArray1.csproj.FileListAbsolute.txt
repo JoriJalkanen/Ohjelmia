@@ -1,0 +1,13 @@
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\bin\Debug\wpfArray1.exe.config
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\bin\Debug\wpfArray1.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\bin\Debug\wpfArray1.pdb
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\obj\Debug\wpfArray1.csprojResolveAssemblyReference.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\obj\Debug\MainWindow.baml
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\obj\Debug\MainWindow.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\obj\Debug\App.g.cs
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\obj\Debug\wpfArray1_MarkupCompile.cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\obj\Debug\wpfArray1.g.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\obj\Debug\wpfArray1.Properties.Resources.resources
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\obj\Debug\wpfArray1.csproj.GenerateResource.Cache
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\obj\Debug\wpfArray1.exe
+U:\Ohjelmointi ynnä muut\ohjelmointi\Wfp\wpfArray1\wpfArray1\obj\Debug\wpfArray1.pdb
